@@ -1,16 +1,24 @@
-# demoapp_questt
+# TicTacToe Game
+Tic Tac Toe is a two-player game in which the objective is to take turns and mark the correct spaces in a 3x3 grid.
+![image](https://user-images.githubusercontent.com/57153473/120053306-1146dd80-c047-11eb-94d2-2800aa541adb.png)
 
-A new Flutter project.
+## Build Setup And Login Instructions
 
-## Getting Started
+```bash
+# install project
+$ git clone https://github.com/CyberIkshit/TicTacToe-Flutter.git
 
-This project is a starting point for a Flutter application.
+# open app directory
+$ cd TicTacToe-Flutter
 
-A few resources to get you started if this is your first Flutter project:
+# install dependencies
+$ pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# build/run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+## Snapshots
+
+App Demo-:
+![ScreenRecorderProject2](https://user-images.githubusercontent.com/57153473/180475093-a48db595-cd83-4715-92a5-fc4880e1d535.gif)
+
